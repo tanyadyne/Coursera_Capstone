@@ -1,5 +1,5 @@
 # What is this project?
-This project is my "Applied Data Science Specialisation" Capstone completed as part of the IBM course on Coursera. It aims to:
+This project is my "Applied Data Science Specialisation" Capstone completed as part of the IBM Data Science course on Coursera. It aims to:
 a) identify the 'safest' borough in London based on crime rate
 b) explore the neighborhoods within that borough (i.e. determine the most common venues in each neighborhood)
 c) cluster/group those neighborhoods using k-means clustering
