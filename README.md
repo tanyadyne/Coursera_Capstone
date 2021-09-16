@@ -1,5 +1,6 @@
 # IBM Data Science Capstone Project
 To view the project notebook, please click [here](https://nbviewer.jupyter.org/github/tanyadyne/Coursera_Capstone/blob/master/Main%20Project/The%20Battle%20of%20the%20Neighborhoods%20-%20Notebook.ipynb).
+
 To view the Coursera certificate, please click [here](https://www.coursera.org/account/accomplishments/professional-cert/7U2GEC5ZNJKJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof).
 
 ## Situation
