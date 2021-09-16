@@ -11,10 +11,7 @@ b) explore/characterise the neighborhoods within that borough (i.e. determine th
 c) cluster/group those neighborhoods using k-means clustering.
 
 ## Action
-I first used pandas to import a dataset containing crime statistics for the different London boroughs and preprocessed it into a readable dataframe. I then used beautiful soup to scrape additional data from Wikipedia and incoporated it into the dataframe. I then used matplotlib to visualise the crime rates in the london boroughs (looking at both the safest and least safest boroughs) and the most common *types* of crime committed.
+I first used pandas to import a dataset containing crime statistics for the different London boroughs and preprocessed it into a readable dataframe. I then used beautiful soup to scrape additional data from Wikipedia and incoporated it into the dataframe. I then used matplotlib to visualise the crime rates in the london boroughs (looking at both the safest and least safest boroughs) and the most common *types* of crime committed. Having found the 
 
 ## Result
-Top 3 most committed crimes were Violence against the person, theft, and vehicle offenses. The least common type of crime was weapon possession. 
-
-# Things I learnt from this project
-As this project was my first 'major' experience with python, I learnt a lot about how to write readable code, how to use jupyter notebooks, and how to approach a problem using python. Of course, I also gained experience using various python packages such as numpy, pandas, matplotlib and folium, among others. 
+The safest London borough (in terms of crime-rate) was Richmond upon Thames (RuT), and the least safest borough was Westminster. The top 3 most committed crimes within RuT were Violence against the person, theft, and vehicle offenses. The least common type of crime was weapon possession. 
