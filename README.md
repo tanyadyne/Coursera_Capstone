@@ -8,8 +8,11 @@ New homeowners often take into consideration a wide range of factors when choosi
 
 ## Task
 This project is my "Applied Data Science Specialisation" Capstone completed as part of the IBM Data Science course on Coursera. Given the situation outlined above, it aims to:
+
 a) identify the 'safest' borough in London based on crime rate
+
 b) explore/characterise the neighborhoods within that borough (i.e. determine the most common venues in each neighborhood)
+
 c) cluster/group those neighborhoods using k-means clustering.
 
 ## Action
